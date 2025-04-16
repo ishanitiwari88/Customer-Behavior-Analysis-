@@ -17,6 +17,20 @@ I have also used VBA to show the total and category wise spend for each customer
 At the end, I have written a report showing the overall performance in summary and recommended how and where we can make changes to increase the sales.
 
 
+As a result-
+
+•	Analysed 1,000+ customer transactions across 4 product categories using Excel and VBA to uncover behaviour patterns, and built dynamic dashboards with interactive filters (Year, Quarter, Month) to analyze time-based purchase trends
+
+•	Implemented VBA automation for on-demand, customer-wise spend summaries, reducing manual effort by 90%
+
+•	Identified a 17.33% growth opportunity in Clothing and 16.11% in Home categories through revenue trend analysis
+
+•	Detected seasonal high-demand periods (e.g., Q4) using line graphs, enabling marketing strategy recommendations
+
+•	Uncovered that 60% of customers preferred a single payment method, informing payment optimization strategy
+
+
+
 
 The Excel file is large and so I am proving a link from where you can view the project. I am also providing my basic VBA code just for reference.
 Here's the link to my excel project - https://1drv.ms/x/c/0c3be36ec4f6efb9/EcdBDd6LH8VKr231PzfqircBQH0PMOGd7kGjUQx4Qzk_vg?e=Khha2x
